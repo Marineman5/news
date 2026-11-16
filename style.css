@@ -22,6 +22,7 @@ ul{list-style:none}
 
 header.top{padding:28px var(--pad) 0;font-size:13px;color:var(--ink2)}
 header.top .lbl{font-weight:500;color:var(--ink)}
+header.top .ar{vertical-align:.3em} /* "←" only: top-aligned looked superscript; centre on x-height. footer ↘ unchanged */
 
 /* masthead: title, lead, dot strip, LATEST / ENTRIES */
 .mast{margin:120px var(--pad) 0}
